@@ -34,4 +34,5 @@ routes(app);
 
 
 app.listen(process.env.PORT || 5000);
-console.log('CWS API with node js for PCS, RESTful API server started on: ' + port);
+// console.log('CWS API with node js for PCS, RESTful API server started on: ' + port);
+console.log('CWS API dengan node js untuk PCS, server RESTful API dijalankan pada: ' + port);
