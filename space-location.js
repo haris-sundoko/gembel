@@ -74,5 +74,5 @@ app.post('/delete',(req, res) => {
  
 //server listening
 app.listen(8000, () => {
-  console.log('Server is running at port 8000');
+  console.log('Server berjalan pada port 8000');
 });
