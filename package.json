@@ -1,7 +1,7 @@
 {
   "name": "cws",
   "version": "1.0.0",
-  "description": "cws api for pcs",
+  "description": "cws api untuk pcs",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
